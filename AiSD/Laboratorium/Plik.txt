@@ -1,0 +1,7 @@
+
+ Stan biezacy: 879807k.m.;  Stan gumy: 68%  , pojemnosc: 100l.
+ Gumy wystarchy na: 6800 km
+ Typ silnika: benz
+ KW: 1178941.0
+ Pozostalo paliwa: 2 l.
+----------------------------------------------------------------------

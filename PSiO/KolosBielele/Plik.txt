@@ -1,0 +1,8 @@
+Wykkaz
+Nazwa Ilosc Cena
+Myszka 20 40
+Laptop 10 2344
+Komputer 200 40
+Telefon 10 3424
+Dysk 0 40
+Ksiazka 0 2344

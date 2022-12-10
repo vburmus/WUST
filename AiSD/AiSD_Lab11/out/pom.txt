@@ -1,0 +1,32 @@
+public static boolean isGood (String a) {
+        if (a.length()==1) {
+            char a1 = a.charAt(0);
+            return Character.isLetter(a1) || Character.isDigit(a1);
+        }
+        return false;
+    }
+
+     if ((s.length() == 1 && isGood(s) && a==null) || (s.length()>1 && a==null))
+                            drzewo.insert(s.toLowerCase(Locale.ROOT), currentLine);
+                        else if (a!=null)
+                            a.getLines().add(currentLine);
+
+
+                            private int nodes(Node node) {
+                                    int counter = 0;
+                                    if (node == null)
+                                        return 0;
+
+                                    counter++;
+
+                                    if (node.getLeft() != null)
+                                        counter+=nodes(node.getLeft());
+                                    if (node.getRight() != null)
+                                        counter+=nodes(node.getRight());
+
+                                    return counter;
+                                }
+
+                                public void countOfNodes() {
+                                    System.out.println("Liczba węzłów: " + nodes(root));
+                                }

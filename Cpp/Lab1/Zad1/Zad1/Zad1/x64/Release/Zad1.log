@@ -1,0 +1,8 @@
+﻿  Zad1.cpp
+D:\Cpp\Lab1\Zad1\Zad1\Zad1\Zad1.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  7 of 13 functions (53.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Zad1.vcxproj -> D:\Cpp\Lab1\Zad1\Zad1\x64\Release\Zad1.exe

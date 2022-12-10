@@ -1,0 +1,4 @@
+﻿  Zad2.cpp
+D:\Cpp\Lab1\Zad2\Zad2\Zad2.cpp(60,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Cpp\Lab1\Zad2\Zad2\Zad2.cpp(52): warning C4715: 'dealloc_table_2_dim': not all control paths return a value
+  Zad2.vcxproj -> D:\Cpp\Lab1\Zad2\x64\Debug\Zad2.exe

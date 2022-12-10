@@ -1,0 +1,3 @@
+L.p.      Nazwa        Cena
+1            Dysk              40 
+2         Ksiazka            2344 

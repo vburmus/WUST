@@ -1,0 +1,3 @@
+﻿  Lab3.cpp
+D:\Cpp\Lab3\Lab3\Lab3\CTreeDynamic.h(185): warning C4715: 'CNodeDynamic<int>::pcFindRoot': not all control paths return a value
+  Lab3.vcxproj -> D:\Cpp\Lab3\Lab3\x64\Debug\Lab3.exe

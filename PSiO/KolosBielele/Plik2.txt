@@ -1,0 +1,5 @@
+L.p        Nazwa           Ilosc          Cena        Wartoscc
+1        Telefon             10           3424       34240,00
+2         Laptop             10           2344       23440,00
+3       Komputer            200             40        8000,00
+4         Myszka             20             40         800,00
